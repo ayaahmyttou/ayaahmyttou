@@ -1,0 +1,55 @@
+<svg width="960" height="700" viewBox="0 0 960 700" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Technology map centered on Clean Architecture">
+  <rect x="1" y="1" width="958" height="698" rx="18" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5"/>
+  <text x="34" y="46" font-family="Consolas, Menlo, monospace" font-size="13" fill="#94A3B8" letter-spacing="1">TECHNOLOGY MAP</text>
+
+  <!-- connections -->
+  <g stroke="#CBD5E1" stroke-width="1.5">
+    <line x1="480" y1="320" x2="480" y2="90"/>
+    <line x1="480" y1="320" x2="659" y2="176"/>
+    <line x1="480" y1="320" x2="704" y2="371"/>
+    <line x1="480" y1="320" x2="579" y2="527"/>
+    <line x1="480" y1="320" x2="380" y2="527"/>
+    <line x1="480" y1="320" x2="255" y2="371"/>
+    <line x1="480" y1="320" x2="300" y2="176"/>
+  </g>
+
+  <!-- core -->
+  <circle cx="480" cy="320" r="58" fill="#0B1120"/>
+  <text x="480" y="315" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">CLEAN</text>
+  <text x="480" y="333" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">ARCHITECTURE</text>
+
+  <!-- node 1: top -->
+  <circle cx="480" cy="90" r="7" fill="#2F6FF0"/>
+  <text x="480" y="66" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14.5" font-weight="600" fill="#0B1120">Backend</text>
+  <text x="480" y="84" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="12.5" fill="#64748B">Java 17 · Spring Boot</text>
+
+  <!-- node 2: upper right -->
+  <circle cx="659" cy="176" r="7" fill="#2F6FF0"/>
+  <text x="674" y="172" font-family="Arial, Helvetica, sans-serif" font-size="14.5" font-weight="600" fill="#0B1120">API &amp; Gateway</text>
+  <text x="674" y="190" font-family="Consolas, Menlo, monospace" font-size="12.5" fill="#64748B">REST · Spring Cloud Gateway</text>
+
+  <!-- node 3: right -->
+  <circle cx="704" cy="371" r="7" fill="#2F6FF0"/>
+  <text x="719" y="367" font-family="Arial, Helvetica, sans-serif" font-size="14.5" font-weight="600" fill="#0B1120">Messaging</text>
+  <text x="719" y="385" font-family="Consolas, Menlo, monospace" font-size="12.5" fill="#64748B">Apache Kafka</text>
+
+  <!-- node 4: lower right -->
+  <circle cx="579" cy="527" r="7" fill="#2F6FF0"/>
+  <text x="579" y="555" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14.5" font-weight="600" fill="#0B1120">Data</text>
+  <text x="579" y="573" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="12.5" fill="#64748B">PostgreSQL · Redis</text>
+
+  <!-- node 5: lower left -->
+  <circle cx="380" cy="527" r="7" fill="#2F6FF0"/>
+  <text x="380" y="555" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14.5" font-weight="600" fill="#0B1120">Frontend</text>
+  <text x="380" y="573" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="12.5" fill="#64748B">Angular 17</text>
+
+  <!-- node 6: left -->
+  <circle cx="255" cy="371" r="7" fill="#2F6FF0"/>
+  <text x="240" y="367" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="14.5" font-weight="600" fill="#0B1120">Infrastructure</text>
+  <text x="240" y="385" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="12.5" fill="#64748B">Docker · Kubernetes</text>
+
+  <!-- node 7: upper left -->
+  <circle cx="300" cy="176" r="7" fill="#2F6FF0"/>
+  <text x="285" y="172" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="14.5" font-weight="600" fill="#0B1120">CI/CD &amp; Security</text>
+  <text x="285" y="190" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="12.5" fill="#64748B">GitLab CI/CD · Keycloak</text>
+</svg>
