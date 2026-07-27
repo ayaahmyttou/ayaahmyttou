@@ -1,0 +1,15 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Aya Ahmyttou — Backend and Distributed Systems Engineer">
+  <defs><pattern id="halftone" width="12" height="12" patternUnits="userSpaceOnUse">
+      <circle cx="6" cy="6" r="1.1" fill="#F3EDE3" opacity="0.045"/>
+    </pattern><linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3B0D18"/>
+      <stop offset="1" stop-color="#4A1424"/>
+    </linearGradient></defs>
+  <rect width="1200" height="420" fill="url(#bg)"/><rect width="1200" height="420" fill="url(#halftone)"/><rect x="0" y="0" width="14" height="420" fill="#C9A24B"/>
+<g>
+  <circle cx="1118" cy="72" r="46" fill="none" stroke="#F3EDE3" stroke-width="1.2" opacity="0.9"/>
+  <circle cx="1118" cy="72" r="38" fill="none" stroke="#F3EDE3" stroke-width="0.6" opacity="0.6"/>
+  <text x="1118" y="82" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="700" fill="#F3EDE3">AA</text>
+</g>
+<text x="60" y="66" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="3" fill="#C9A24B">PORTRAIT — INGÉNIEURE LOGICIELLE</text><text x="56" y="210" font-family="Georgia, 'Times New Roman', serif" font-size="148" font-weight="700" fill="#F3EDE3">AYA</text><text x="60" y="272" font-family="Georgia, 'Times New Roman', serif" font-size="60" font-weight="700" letter-spacing="2" fill="#F3EDE3">AHMYTTOU</text><line x1="62" y1="298" x2="560" y2="298" stroke="#C9A24B" stroke-width="2"/><text x="62" y="332" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2.5" fill="#C9A24B">BACKEND &amp; SYSTÈMES DISTRIBUÉS</text><text x="62" y="362" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="15" fill="#C7A0A8">Java · Spring Boot · Angular · Kafka · Docker · Kubernetes</text><text x="1140" y="150" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="700" fill="#F3EDE3">L’architecture</text><text x="1140" y="182" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="700" fill="#F3EDE3">comme méthode</text><text x="1140" y="230" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#C9A24B">3ᵉ place — innovation étudiante</text><text x="1140" y="256" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#C7A0A8">Projet IA &amp; NLP · cheffe de projet</text><text x="1140" y="292" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#9C7680">ENSA Tanger — Génie Informatique · 2026</text>
+</svg>
